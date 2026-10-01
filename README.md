@@ -33,14 +33,14 @@ npx emptyxz-docker create
 Choose the database:
 ```
 
-### Enter:
+#### Enter:
 
 * Database name
 * User
 * Password
 * Port
 
-### And you're done.
+#### And you're done.
 
 ```text
 docker-compose.yml created successfully!
